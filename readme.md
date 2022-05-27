@@ -1,0 +1,1 @@
+<h1 align="center">Parsing of all completed tasks from the <a href="https://codewars.com/" target="_blank">Codewars</a> Codewars platform</h1>
