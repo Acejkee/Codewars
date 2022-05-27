@@ -1,2 +1,2 @@
 <h1 align="center">Parsing of all completed tasks from the <a href="https://codewars.com/" target="_blank">Codewars</a> Codewars platform
-<img src="https://miro.medium.com/max/1200/1*tngbR_an-3Pj8EIL9dN_Ow.png" height="32"/></h1>
+<img src="https://repository-images.githubusercontent.com/312697996/68207b80-296f-11eb-8736-edb58a48a60d"></h1>
