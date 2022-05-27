@@ -1,0 +1,1 @@
+SELECT name, greeting,array_to_string(REGEXP_MATCHES(greeting,'#([0-9_]+)','g') , ',' ) AS user_id FROM greetings
